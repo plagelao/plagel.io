@@ -20,4 +20,4 @@ This will print:
 
       Addition
         returns 2 when adding 1 and 1
-        returns 3 when addin 2 and 2 is failing
+        returns 3 when adding 2 and 2 is failing
